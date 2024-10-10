@@ -1,0 +1,49 @@
+Problems of Lab Report 4
+
+1. 
+Write a C program to print all natural numbers in reverse (from n to 1)
+2.      
+Write a C program to print all alphabets from a to z.
+3.      
+Write a C program to print sum of all even numbers between 1 to n.
+4.      
+Write a C program to print sum of all odd numbers between 1 to n.
+5.      
+Write a C program to print prime numbers between 1 to n.
+6.      
+Write a C program to print table of any number.
+7.      
+Write a C program to enter any number and calculate sum of all natural numbers between 1 to n
+8.      
+Write a c program to print all numbers from 1 to 10 without number 5.
+1 2 3 4 6 7 8 9 10
+
+9.      
+Write a c program to print all numbers from 1 to
+10 where all even numbers will be 0.
+1  0  3 0 5 0 7 0 9 0
+
+10.  
+Write a c program to print the following series
+1              2
+3              4
+5              6
+.               .
+.               .
+19           20
+
+11.  
+Write a c program to print the following series –
+1              10
+2              9
+3              8
+.               .
+.               .
+10           1
+
+12.  
+Write a c program to print the result of 5!.
+13.  
+Write a c program to find out the vowel and consonant by using for loop and mark it via ‘v’ and ‘c’ respectively.
+14.  
+Write a c program to find and count the vowel, consonant and total character from ‘a’ to ‘m’ by using ‘for loop’ and mark it via ‘v’ and ‘c’ respectively.

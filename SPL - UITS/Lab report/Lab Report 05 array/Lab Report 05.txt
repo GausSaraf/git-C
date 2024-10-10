@@ -1,0 +1,17 @@
+Lab Report #05 (Array)
+
+1. Write a C code to read and print elements of an array
+
+2. Write a C code to print all negative elements in an array
+
+3. Write a Ccode to find sum and average of all array elements in an array
+
+4. Write a C code to find maximum and minimum element in an array
+
+5. Write a C code to find a value from an array with its position
+
+6. Write a C code to copy all values from an array into another array
+
+7. Write a C code to insert a values to a specific position
+
+8. Write a C code to delete a values to a specific position

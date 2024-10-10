@@ -1,0 +1,50 @@
+#include <stdio.h>
+
+int main() 
+{
+
+    char lineINPUT[30]; //this is an array
+  fgets(lineINPUT, sizeof(lineINPUT), stdin); //function for string
+  
+  //the scanf() function has some limitations: it considers space (whitespace, tabs, etc) as a terminating character, which means that it can only display a single word (even if you type many words). That's why, when working with strings, we often use the fgets() function instead of scanf() to read a line of text. Note that you must include the following arguments: the name of the string variable, sizeof(string_name), and stdin:
+    printf("Hello, World!\n%s\n", lineINPUT);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    return 0;
+}
+
+_____________________________________________________
+
+#include <stdio.h>
+
+
+int main()
+{
+   
+
+char lineINPUT[30]; //this is an array
+  fgets(lineINPUT, sizeof(lineINPUT), stdin); //function for string
+
+   
+   
+printf("Hello, World!\n%s\n", lineINPUT);
+
+
+return 0;
+}
+
+
+
+/*
+
+//limitation here is that you must take 3 word inputs, 
+//if you name consists of 2 words, output won't show, but wait for another input
+
+char a[10]; char b[10]; char c[10];
+scanf("%s %s %s", &a, &b, &c);
+printf("\n\nYour said your name was %s %s %s\n\n",a,b,c);
+
+*/
+
+
+
+
